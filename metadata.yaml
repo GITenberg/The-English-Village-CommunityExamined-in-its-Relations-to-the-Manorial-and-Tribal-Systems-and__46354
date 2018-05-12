@@ -1,0 +1,33 @@
+_repo: The-English-Village-CommunityExamined-in-its-Relations-to-the-Manorial-and-Tribal-Systems-and__46354
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46354-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seebohm, Frederic
+    aliases:
+    - Seebohm, F. (Frederic)
+    - Seebohm, Frederick
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '42377'
+    url: http://www.gutenberg.org/2009/agents/42377
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Village communities -- Great Britain'
+- !lcc 'JC'
+title: 'The English Village Community
+
+  Examined in its Relations to the Manorial and Tribal Systems and to the Common or
+  Open Field System of Husbandry; An Essay in Economic History (Reprinted from the
+  Fourth Edition)'
+url: http://www.gutenberg.org/ebooks/46354
